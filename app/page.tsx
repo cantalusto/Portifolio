@@ -54,6 +54,12 @@ const projects = [
     description: "Sistema completo e moderno para gerenciar alunos, instrumentos, presenças e pagamentos de escolas de música.",
     tags: ["Next.js", "React 19", "TypeScript", "TailwindCSS", "Prisma ORM", "PostgreSQL"],
     githubUrl: "https://github.com/cantalusto/EscolaIgrejaMusica" // 
+
+    title: "Testes Automatizados de UI e API com Cypress",
+    description: "Este projeto é uma demonstração de como configurar e executar testes automatizados de ponta a ponta (E2E) e de API.",
+    tags: ["Vite", "React", "Cypress", "Mochawesome", "NPM", "Node.js"],
+    githubUrl: "https://github.com/cantalusto/cypress-react-login-tests" // 
+ 
   }
 ];
 
