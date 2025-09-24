@@ -22,8 +22,8 @@ const projects = [
   {
     title: "Gerenciamento de Equipes (uStore)",
     description: "Aplicação web estilo Trello, utilizando React, TypeScript, TailwindCSS, Spring Boot e Java.",
-    tags: ["React", "TypeScript", "Spring Boot", "Java"],
-    githubUrl: "https://github.com/cantalusto/uStore-Residencia" 
+    tags: ["PostgreSQL", "TypeScript", "Next.js", "GeminiAPI"],
+    githubUrl: "https://github.com/cantalusto/Ustore-Management-App" 
   },
   {
     title: "IA para Identificação de Xingamentos (Jornal do Commercio)",
@@ -52,8 +52,8 @@ const projects = [
   {
     title: "W.I.P",
     description: "Automação, Testes de carga.",
-    tags: ["JMeter", "Cypresss", "Postman"],
-    githubUrl: "" // 
+    tags: ["Next.js", "React 19", "TypeScript", "TailwindCSS", "Prisma ORM", "PostgreSQL"],
+    githubUrl: "https://github.com/cantalusto/EscolaIgrejaMusica" // 
   }
 ];
 
