@@ -50,8 +50,8 @@ const projects = [
     githubUrl: "https://github.com/cantalusto/FARMACIA_PHP" // 
   },
   {
-    title: "W.I.P",
-    description: "Automação, Testes de carga.",
+    title: "Sistema de Gerenciamento - Escola de Música da Igreja",
+    description: "Sistema completo e moderno para gerenciar alunos, instrumentos, presenças e pagamentos de escolas de música.",
     tags: ["Next.js", "React 19", "TypeScript", "TailwindCSS", "Prisma ORM", "PostgreSQL"],
     githubUrl: "https://github.com/cantalusto/EscolaIgrejaMusica" // 
   }
