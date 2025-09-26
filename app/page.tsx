@@ -59,8 +59,36 @@ const projects = [
   {
     title: "Testes Automatizados de UI e API com Cypress",
     description: "Este projeto é uma demonstração de como configurar e executar testes automatizados de ponta a ponta (E2E) e de API.",
-    tags: ["Vite", "React", "Cypress", "Mochawesome", "NPM", "Node.js"],
+    tags: ["Vite", "React", "Cypress", "Mochawesome", "NPM", "Node.js", "QA"],
     githubUrl: "https://github.com/cantalusto/cypress-react-login-tests" // 
+ 
+  },
+    {
+    title: "Teste de Performance - API de E-commerce com Locust",
+    description: "Este projeto contém scripts e resultados completos de testes de performance realizados com Locust, simulando diferentes cenários de carga em uma API de e-commerce. Os testes avaliam a capacidade de resposta e estabilidade sob condições de estresse.",
+    tags: ["Locust", "Python", "Testing", "Performance", "API", "QA"],
+    githubUrl: "https://github.com/cantalusto/api-performance-testing-locust" // 
+ 
+  },
+    {
+    title: "Dashboard de Métricas de QA com Grafana e InfluxDB",
+    description: "Este projeto demonstra um pipeline completo e profissional para visualização de métricas de testes automatizados. Os resultados dos testes (em formato JUnit XML) são processados por um script Python e enviados para um banco de dados de séries temporais (InfluxDB), sendo finalmente visualizados em um dashboard dinâmico e interativo no Grafana.",
+    tags: ["Grafana", "InfluxDB", "Docker", "Python", "CI/CD", "QA"],
+    githubUrl: "https://github.com/cantalusto/qa-metrics-dashboard" // 
+ 
+  },
+    {
+    title: "Demonstração de Testes Automatizados de Acessibilidade",
+    description: "Este projeto demonstra a implementação profissional de testes automatizados de acessibilidade em aplicações web utilizando Cypress integrado com a biblioteca axe-core. O objetivo é apresentar um cenário prático de 'antes e depois', mostrando como a automação pode garantir a inclusão digital através da identificação e correção de barreiras de acesso.",
+    tags: ["Cypress", "axe-core", "WCAG", "Acessibilidade", "QA", "Node.js"],
+    githubUrl: "https://github.com/cantalusto/cypress-axe-accessibility-demo" // 
+ 
+  },
+    {
+    title: "Automação de Testes de API com Postman e CI/CD",
+    description: "Este projeto demonstra habilidades avançadas na criação e automação de testes de API em um pipeline profissional de CI/CD. O objetivo é validar integralmente o funcionamento de endpoints de APIs públicas, garantindo a qualidade através de validações de status codes, performance e estrutura de dados.",
+    tags: ["GitHub Actions", "PostMan", "NewMan", "Node.js", "Rest API", "QA"],
+    githubUrl: "https://github.com/cantalusto/api-testing-portfolio" // 
  
   }
 ];
