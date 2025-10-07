@@ -85,6 +85,55 @@ const projects = [
  
   },
     {
+    title: "QA Buddy - Gerador de Testes Inteligente com IA",
+    description: "Uma aplicação web full-stack inovadora que utiliza a API do Google Gemini para gerar automaticamente casos de teste (Unitários, Integração e End-to-End) a partir de descrições de funcionalidades em linguagem natural. Desenvolvida para demonstrar a integração de modelos de linguagem avançados em arquiteturas modernas.",
+    tags: ["React", "Node.js", "GoogleGemini", "TailWindCSS", "QA", "Vite"],
+    githubUrl: "https://github.com/cantalusto/QA-Buddy" // 
+ 
+  },
+    {
+    title: "RUBY-Calculadora de Imposto de Renda (IRPF) - Brasil",
+    description: "Uma aplicação moderna desenvolvida em Ruby on Rails 7 com interface elegante em TailwindCSS que calcula o Imposto de Renda Pessoa Física (IRPF) conforme as regras vigentes no Brasil. A ferramenta simplifica o cálculo tributário para pessoas físicas, proporcionando simulações precisas de impostos a pagar ou valores a restituir.",
+    tags: ["Ruby-on-Rails", "Ruby", "PostgreSQL", "TailWindCSS"],
+    githubUrl: "https://github.com/cantalusto/ruby-study" // 
+ 
+  },
+    {
+    title: "Escape do Vício",
+    description: "Uma aplicação web interativa e educacional desenvolvida para conscientizar jovens sobre os perigos dos cigarros eletrônicos (vapes) e fornecer estratégias práticas para escapar do vício. Combina gamificação, educação científica e suporte psicológico em uma experiência envolvente.",
+    tags: ["Next.js", "React", "TypeScript", "TailWindCSS", "Study", "Community"],
+    githubUrl: "https://github.com/cantalusto/escape-do-vicio" // 
+ 
+  },
+    {
+    title: "POKE-CODE-Pokémon Team Builder",
+    description: "Uma aplicação web moderna e interativa para construir, analisar e batalhar com times Pokémon, desenvolvida com Next.js 15 e integração com IA Gemini. A plataforma oferece uma experiência completa para treinadores Pokémon criarem estratégias vencedoras.",
+    tags: ["Next.js", "React", "TypeScript", "GoogleGemini", "TailWindCSS", "PokeApi"],
+    githubUrl: "https://github.com/cantalusto/poke-code" // 
+ 
+  },
+    {
+    title: "💪 GymCraft — App de Treinos Moderno, Simples e Inteligente",
+    description: "Um aplicativo moderno de treinos desenvolvido com Expo/React Native com suporte completo para Web, iOS e Android. Focado em oferecer uma experiência de usuário fluida com animações sutis, interface intuitiva e planejamento inteligente de treinos.",
+    tags: ["React-Native", "Expo", "TypeScript", "CrossPlatform", "WEB/IOS/ANDROID", "IA"],
+    githubUrl: "https://github.com/cantalusto/gym-craft-app" // 
+ 
+  },
+    {
+    title: "🎬 CantaWatch - Catálogo Inteligente de Filmes, Séries e Animes",
+    description: "Uma aplicação moderna desenvolvida em Next.js que oferece um catálogo completo de filmes, séries e animes com recomendações inteligentes via IA e suporte completo a internacionalização.",
+    tags: ["Next.js", "TypeScript", "TMDB", "GoogleGemini"],
+    githubUrl: "https://github.com/cantalusto/canta_watch" // 
+ 
+  },
+    {
+    title: "🎮 Escape do Vício — Jogo Educativo em Pixel Art",
+    description: "Um jogo web educativo desenvolvido com HTML, CSS e JavaScript que combina arte pixelada, gamificação e conscientização sobre vícios. O jogador embarca em uma jornada simbólica de libertação através de desafios educativos.",
+    tags: ["HTML5", "CSS3", "JavaScript", "PixelArt", "Game", "Education"],
+    githubUrl: "https://github.com/cantalusto/escape_do_vicio" // 
+ 
+  },
+    {
     title: "Automação de Testes de API com Postman e CI/CD",
     description: "Este projeto demonstra habilidades avançadas na criação e automação de testes de API em um pipeline profissional de CI/CD. O objetivo é validar integralmente o funcionamento de endpoints de APIs públicas, garantindo a qualidade através de validações de status codes, performance e estrutura de dados.",
     tags: ["GitHub Actions", "PostMan", "NewMan", "Node.js", "Rest API", "QA"],
